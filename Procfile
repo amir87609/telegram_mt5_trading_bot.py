@@ -1,1 +1,1 @@
-worker: python telegram_mt5_trading_bot.py
+worker: python telegram_bybit_trading_bot.py
